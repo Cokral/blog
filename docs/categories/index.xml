@@ -2,80 +2,80 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Categories on Thomas Coquereau Blog</title>
-    <link>https://thomascoquereau.com/blog/categories/</link>
+    <link>https://www.thomascoquereau.com/blog/categories/</link>
     <description>Recent content in Categories on Thomas Coquereau Blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sat, 22 Jan 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://thomascoquereau.com/blog/categories/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sat, 22 Jan 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://www.thomascoquereau.com/blog/categories/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>baseline</title>
-      <link>https://thomascoquereau.com/blog/categories/baseline/</link>
+      <link>https://www.thomascoquereau.com/blog/categories/baseline/</link>
       <pubDate>Sat, 22 Jan 2022 00:00:00 +0000</pubDate>
       
-      <guid>https://thomascoquereau.com/blog/categories/baseline/</guid>
+      <guid>https://www.thomascoquereau.com/blog/categories/baseline/</guid>
       <description></description>
     </item>
     
     <item>
       <title>blog</title>
-      <link>https://thomascoquereau.com/blog/categories/blog/</link>
+      <link>https://www.thomascoquereau.com/blog/categories/blog/</link>
       <pubDate>Sat, 22 Jan 2022 00:00:00 +0000</pubDate>
       
-      <guid>https://thomascoquereau.com/blog/categories/blog/</guid>
+      <guid>https://www.thomascoquereau.com/blog/categories/blog/</guid>
       <description></description>
     </item>
     
     <item>
       <title>data</title>
-      <link>https://thomascoquereau.com/blog/categories/data/</link>
+      <link>https://www.thomascoquereau.com/blog/categories/data/</link>
       <pubDate>Sat, 22 Jan 2022 00:00:00 +0000</pubDate>
       
-      <guid>https://thomascoquereau.com/blog/categories/data/</guid>
+      <guid>https://www.thomascoquereau.com/blog/categories/data/</guid>
       <description></description>
     </item>
     
     <item>
       <title>heuristic</title>
-      <link>https://thomascoquereau.com/blog/categories/heuristic/</link>
+      <link>https://www.thomascoquereau.com/blog/categories/heuristic/</link>
       <pubDate>Sat, 22 Jan 2022 00:00:00 +0000</pubDate>
       
-      <guid>https://thomascoquereau.com/blog/categories/heuristic/</guid>
+      <guid>https://www.thomascoquereau.com/blog/categories/heuristic/</guid>
       <description></description>
     </item>
     
     <item>
       <title>hyperparameter</title>
-      <link>https://thomascoquereau.com/blog/categories/hyperparameter/</link>
+      <link>https://www.thomascoquereau.com/blog/categories/hyperparameter/</link>
       <pubDate>Sat, 22 Jan 2022 00:00:00 +0000</pubDate>
       
-      <guid>https://thomascoquereau.com/blog/categories/hyperparameter/</guid>
+      <guid>https://www.thomascoquereau.com/blog/categories/hyperparameter/</guid>
       <description></description>
     </item>
     
     <item>
       <title>machine learning</title>
-      <link>https://thomascoquereau.com/blog/categories/machine-learning/</link>
+      <link>https://www.thomascoquereau.com/blog/categories/machine-learning/</link>
       <pubDate>Sat, 22 Jan 2022 00:00:00 +0000</pubDate>
       
-      <guid>https://thomascoquereau.com/blog/categories/machine-learning/</guid>
+      <guid>https://www.thomascoquereau.com/blog/categories/machine-learning/</guid>
       <description></description>
     </item>
     
     <item>
       <title>ML</title>
-      <link>https://thomascoquereau.com/blog/categories/ml/</link>
+      <link>https://www.thomascoquereau.com/blog/categories/ml/</link>
       <pubDate>Sat, 22 Jan 2022 00:00:00 +0000</pubDate>
       
-      <guid>https://thomascoquereau.com/blog/categories/ml/</guid>
+      <guid>https://www.thomascoquereau.com/blog/categories/ml/</guid>
       <description></description>
     </item>
     
     <item>
       <title>production</title>
-      <link>https://thomascoquereau.com/blog/categories/production/</link>
+      <link>https://www.thomascoquereau.com/blog/categories/production/</link>
       <pubDate>Sat, 22 Jan 2022 00:00:00 +0000</pubDate>
       
-      <guid>https://thomascoquereau.com/blog/categories/production/</guid>
+      <guid>https://www.thomascoquereau.com/blog/categories/production/</guid>
       <description></description>
     </item>
     

@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>hyperparameter on Thomas Coquereau Blog</title>
-    <link>https://thomascoquereau.com/blog/categories/hyperparameter/</link>
+    <link>https://www.thomascoquereau.com/blog/categories/hyperparameter/</link>
     <description>Recent content in hyperparameter on Thomas Coquereau Blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sat, 22 Jan 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://thomascoquereau.com/blog/categories/hyperparameter/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sat, 22 Jan 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://www.thomascoquereau.com/blog/categories/hyperparameter/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Notes on ML in production</title>
-      <link>https://thomascoquereau.com/blog/posts/notes_on_ml_in_production/</link>
+      <link>https://www.thomascoquereau.com/blog/posts/notes_on_ml_in_production/</link>
       <pubDate>Sat, 22 Jan 2022 00:00:00 +0000</pubDate>
       
-      <guid>https://thomascoquereau.com/blog/posts/notes_on_ml_in_production/</guid>
+      <guid>https://www.thomascoquereau.com/blog/posts/notes_on_ml_in_production/</guid>
       <description>Today, I find myself working on another Machine Learning (ML) model with the goal of putting it in production. I thought a good first step would be to look back on my previous experiences and identify what (not) to do!
 I won’t explain what ML is in this article, or which algorithm(s) to pick according to different cases; I’ll go through good practices like: how to start, what not to forget about and little tricks to make your life easier.</description>
     </item>
