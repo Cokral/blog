@@ -1,0 +1,93 @@
+baseURL: https://thomascoquereau.com/blog/
+languageCode: en-us
+title: Thomas Coquereau Blog
+theme: "PaperMod"
+publishDir: "docs"
+
+params:
+  title: Thomas Coquereau Blog
+  description: "Blog about what I learn as a Data Scientist, and my thoughts about the world."
+  keywords: [Blog, Portfolio, PaperMod]
+  author: Me
+  # author: ["Me", "You"] # multiple authors
+  DateFormat: "January 2, 2006"
+  defaultTheme: auto # dark, light
+
+  ShowReadingTime: true
+  ShowShareButtons: true
+  ShowPostNavLinks: true
+  ShowBreadCrumbs: true
+  ShowCodeCopyButtons: false
+  disableSpecial1stPost: false
+  disableScrollToTop: false
+  comments: false
+  hidemeta: false
+  hideSummary: false
+  showtoc: false
+  tocopen: false
+
+  assets:
+    # disableHLJS: true # to disable highlight.js
+    # disableFingerprinting: true
+    favicon: snail.png
+    favicon16x16: "<link / abs url>"
+    favicon32x32: "<link / abs url>"
+    apple_touch_icon: "<link / abs url>"
+    safari_pinned_tab: "<link / abs url>"
+
+  label:
+    text: "Cokraliblog"
+    icon: snail.png
+    iconHeight: 35
+
+  # home-info mode
+  homeInfoParams:
+    Title: "Hi there / Bonjour \U0001F44B"
+    Content: Welcome to my blog. I'm a 26y-o Data Scientist, talking about my work, passions and life in general.
+
+  socialIcons:
+    - name: twitter
+      url: "https://twitter.com/TCoquereau"
+    - name: github
+      url: "https://github.com/Cokral"
+    - name: instagram
+      url: "https://www.instagram.com/cokralidraw/"
+    - name: CV 
+      url: "https://www.thomascoquereau.com"
+    - name: email
+      email: "coquereau.thomas@gmail.com"
+
+  cover:
+    hidden: true # hide everywhere but not in structured data
+    hiddenInList: true # hide on list pages and home
+    hiddenInSingle: true # hide on single page
+
+  # for search
+  # https://fusejs.io/api/options.html
+  fuseOpts:
+    isCaseSensitive: false
+    shouldSort: true
+    location: 0
+    distance: 1000
+    threshold: 0.4
+    minMatchCharLength: 0
+    keys: ["title", "permalink", "summary", "content"]
+menu:
+  main:
+    - identifier: categories
+      name: categories
+      url: /categories/
+      weight: 10
+    - identifier: contact
+      name: contact me  
+      url: mailto:coquereau.thomas@gmail.com
+      weight: 30
+# Read: https://github.com/adityatelange/hugo-PaperMod/wiki/FAQs#using-hugos-syntax-highlighter-chroma
+# pygmentsUseClasses: true
+# markup:
+#     highlight:
+#         # anchorLineNos: true
+#         codeFences: true
+#         guessSyntax: true
+#         lineNos: true
+#         style: monokai
