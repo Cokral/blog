@@ -74,14 +74,14 @@ params:
     keys: ["title", "permalink", "summary", "content"]
 menu:
   main:
+    - identifier: posts
+      name: posts
+      url: /
+      weight: 10
     - identifier: categories
       name: categories
       url: /categories/
-      weight: 10
-    - identifier: contact
-      name: contact me  
-      url: mailto:coquereau.thomas@gmail.com
-      weight: 30
+      weight: 20
 # Read: https://github.com/adityatelange/hugo-PaperMod/wiki/FAQs#using-hugos-syntax-highlighter-chroma
 # pygmentsUseClasses: true
 # markup:
