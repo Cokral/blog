@@ -2,101 +2,101 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Categories on Thomas Coquereau Blog</title>
-    <link>http://localhost:1313/blog/categories/</link>
+    <link>https://www.thomascoquereau.com/blog/categories/</link>
     <description>Recent content in Categories on Thomas Coquereau Blog</description>
     <generator>Hugo -- 0.128.2</generator>
     <language>en-us</language>
     <lastBuildDate>Sat, 13 Jul 2024 00:00:00 +0000</lastBuildDate>
-    <atom:link href="http://localhost:1313/blog/categories/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://www.thomascoquereau.com/blog/categories/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Blog</title>
-      <link>http://localhost:1313/blog/categories/blog/</link>
+      <link>https://www.thomascoquereau.com/blog/categories/blog/</link>
       <pubDate>Sat, 13 Jul 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/blog/categories/blog/</guid>
+      <guid>https://www.thomascoquereau.com/blog/categories/blog/</guid>
       <description></description>
     </item>
     <item>
       <title>Data Engineering</title>
-      <link>http://localhost:1313/blog/categories/data-engineering/</link>
+      <link>https://www.thomascoquereau.com/blog/categories/data-engineering/</link>
       <pubDate>Sat, 13 Jul 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/blog/categories/data-engineering/</guid>
+      <guid>https://www.thomascoquereau.com/blog/categories/data-engineering/</guid>
       <description></description>
     </item>
     <item>
       <title>Pandas</title>
-      <link>http://localhost:1313/blog/categories/pandas/</link>
+      <link>https://www.thomascoquereau.com/blog/categories/pandas/</link>
       <pubDate>Sat, 13 Jul 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/blog/categories/pandas/</guid>
+      <guid>https://www.thomascoquereau.com/blog/categories/pandas/</guid>
       <description></description>
     </item>
     <item>
       <title>Performance</title>
-      <link>http://localhost:1313/blog/categories/performance/</link>
+      <link>https://www.thomascoquereau.com/blog/categories/performance/</link>
       <pubDate>Sat, 13 Jul 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/blog/categories/performance/</guid>
+      <guid>https://www.thomascoquereau.com/blog/categories/performance/</guid>
       <description></description>
     </item>
     <item>
       <title>Polars</title>
-      <link>http://localhost:1313/blog/categories/polars/</link>
+      <link>https://www.thomascoquereau.com/blog/categories/polars/</link>
       <pubDate>Sat, 13 Jul 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/blog/categories/polars/</guid>
+      <guid>https://www.thomascoquereau.com/blog/categories/polars/</guid>
       <description></description>
     </item>
     <item>
       <title>Python</title>
-      <link>http://localhost:1313/blog/categories/python/</link>
+      <link>https://www.thomascoquereau.com/blog/categories/python/</link>
       <pubDate>Sat, 13 Jul 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/blog/categories/python/</guid>
+      <guid>https://www.thomascoquereau.com/blog/categories/python/</guid>
       <description></description>
     </item>
     <item>
       <title>Baseline</title>
-      <link>http://localhost:1313/blog/categories/baseline/</link>
+      <link>https://www.thomascoquereau.com/blog/categories/baseline/</link>
       <pubDate>Sat, 22 Jan 2022 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/blog/categories/baseline/</guid>
+      <guid>https://www.thomascoquereau.com/blog/categories/baseline/</guid>
       <description></description>
     </item>
     <item>
       <title>Data</title>
-      <link>http://localhost:1313/blog/categories/data/</link>
+      <link>https://www.thomascoquereau.com/blog/categories/data/</link>
       <pubDate>Sat, 22 Jan 2022 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/blog/categories/data/</guid>
+      <guid>https://www.thomascoquereau.com/blog/categories/data/</guid>
       <description></description>
     </item>
     <item>
       <title>Heuristic</title>
-      <link>http://localhost:1313/blog/categories/heuristic/</link>
+      <link>https://www.thomascoquereau.com/blog/categories/heuristic/</link>
       <pubDate>Sat, 22 Jan 2022 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/blog/categories/heuristic/</guid>
+      <guid>https://www.thomascoquereau.com/blog/categories/heuristic/</guid>
       <description></description>
     </item>
     <item>
       <title>Hyperparameter</title>
-      <link>http://localhost:1313/blog/categories/hyperparameter/</link>
+      <link>https://www.thomascoquereau.com/blog/categories/hyperparameter/</link>
       <pubDate>Sat, 22 Jan 2022 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/blog/categories/hyperparameter/</guid>
+      <guid>https://www.thomascoquereau.com/blog/categories/hyperparameter/</guid>
       <description></description>
     </item>
     <item>
       <title>Machine Learning</title>
-      <link>http://localhost:1313/blog/categories/machine-learning/</link>
+      <link>https://www.thomascoquereau.com/blog/categories/machine-learning/</link>
       <pubDate>Sat, 22 Jan 2022 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/blog/categories/machine-learning/</guid>
+      <guid>https://www.thomascoquereau.com/blog/categories/machine-learning/</guid>
       <description></description>
     </item>
     <item>
       <title>ML</title>
-      <link>http://localhost:1313/blog/categories/ml/</link>
+      <link>https://www.thomascoquereau.com/blog/categories/ml/</link>
       <pubDate>Sat, 22 Jan 2022 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/blog/categories/ml/</guid>
+      <guid>https://www.thomascoquereau.com/blog/categories/ml/</guid>
       <description></description>
     </item>
     <item>
       <title>Production</title>
-      <link>http://localhost:1313/blog/categories/production/</link>
+      <link>https://www.thomascoquereau.com/blog/categories/production/</link>
       <pubDate>Sat, 22 Jan 2022 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/blog/categories/production/</guid>
+      <guid>https://www.thomascoquereau.com/blog/categories/production/</guid>
       <description></description>
     </item>
   </channel>
