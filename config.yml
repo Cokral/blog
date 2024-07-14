@@ -1,7 +1,7 @@
 baseURL: https://www.thomascoquereau.com/blog/
 languageCode: en-us
 title: Thomas Coquereau Blog
-theme: "PaperMod"
+theme: ["PaperMod"]
 publishDir: "docs"
 
 params:

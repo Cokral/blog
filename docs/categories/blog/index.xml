@@ -1,32 +1,37 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
-    <title>blog on Thomas Coquereau Blog</title>
-    <link>https://www.thomascoquereau.com/blog/categories/blog/</link>
-    <description>Recent content in blog on Thomas Coquereau Blog</description>
-    <generator>Hugo -- gohugo.io</generator>
+    <title>Blog on Thomas Coquereau Blog</title>
+    <link>http://localhost:1313/blog/categories/blog/</link>
+    <description>Recent content in Blog on Thomas Coquereau Blog</description>
+    <generator>Hugo -- 0.128.2</generator>
     <language>en-us</language>
-    <lastBuildDate>Sat, 22 Jan 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://www.thomascoquereau.com/blog/categories/blog/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sat, 13 Jul 2024 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/blog/categories/blog/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Polars vs Pandas: A Real-World Performance Comparison (Part 1/2)</title>
+      <link>http://localhost:1313/blog/posts/polars_vs_pandas_1/</link>
+      <pubDate>Sat, 13 Jul 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/blog/posts/polars_vs_pandas_1/</guid>
+      <description>Recently, I decided to experiment with the Python library Polars at work. I&amp;rsquo;ve been hearing a lot about it, and I wanted to see how it compares to Pandas, which we currently use for our data preprocessing. Here&amp;rsquo;s what I learned!
+Why Polars? Polars has been trending in the data engineering world, and I was curious to see if it lived up to the hype. Plus, I&amp;rsquo;m a firm believer in learning by doing, so I thought this would be a great opportunity to get hands-on experience with a new tool.</description>
+    </item>
     <item>
       <title>Notes on ML in production</title>
-      <link>https://www.thomascoquereau.com/blog/posts/notes_on_ml_in_production/</link>
+      <link>http://localhost:1313/blog/posts/notes_on_ml_in_production/</link>
       <pubDate>Sat, 22 Jan 2022 00:00:00 +0000</pubDate>
-      
-      <guid>https://www.thomascoquereau.com/blog/posts/notes_on_ml_in_production/</guid>
+      <guid>http://localhost:1313/blog/posts/notes_on_ml_in_production/</guid>
       <description>Today, I find myself working on another Machine Learning (ML) model with the goal of putting it in production. I thought a good first step would be to look back on my previous experiences and identify what (not) to do!
 I won’t explain what ML is in this article, or which algorithm(s) to pick according to different cases; I’ll go through good practices like: how to start, what not to forget about and little tricks to make your life easier.</description>
     </item>
-    
     <item>
       <title>Introduction</title>
-      <link>https://www.thomascoquereau.com/blog/posts/introduction/</link>
+      <link>http://localhost:1313/blog/posts/introduction/</link>
       <pubDate>Mon, 10 Jan 2022 00:00:00 +0000</pubDate>
-      
-      <guid>https://www.thomascoquereau.com/blog/posts/introduction/</guid>
+      <guid>http://localhost:1313/blog/posts/introduction/</guid>
       <description>Hello there / bonjour 👋 I am Thomas, a 26yo French Data Scientist and this is my first ever blog post !
 This blog will be about everything, from what I learnt after 3 years working as a Data Scientist, to random thoughts about the world !
 For years, I have been passionate about self improvement. Trying to find ways to combine pleasure, entertainment and self growth. Back in high school, I decided to better my English and picked-up the Hobbit in its original version.</description>
     </item>
-    
   </channel>
 </rss>
