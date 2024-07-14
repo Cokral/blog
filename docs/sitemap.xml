@@ -2,63 +2,63 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://www.thomascoquereau.com/blog/categories/blog/</loc>
+    <loc>https://thomascoquereau.com/blog/categories/blog/</loc>
     <lastmod>2024-07-13T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://www.thomascoquereau.com/blog/categories/</loc>
+    <loc>https://thomascoquereau.com/blog/categories/</loc>
     <lastmod>2024-07-13T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://www.thomascoquereau.com/blog/categories/data-engineering/</loc>
+    <loc>https://thomascoquereau.com/blog/categories/data-engineering/</loc>
     <lastmod>2024-07-13T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://www.thomascoquereau.com/blog/categories/pandas/</loc>
+    <loc>https://thomascoquereau.com/blog/categories/pandas/</loc>
     <lastmod>2024-07-13T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://www.thomascoquereau.com/blog/categories/performance/</loc>
+    <loc>https://thomascoquereau.com/blog/categories/performance/</loc>
     <lastmod>2024-07-13T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://www.thomascoquereau.com/blog/categories/polars/</loc>
+    <loc>https://thomascoquereau.com/blog/categories/polars/</loc>
     <lastmod>2024-07-13T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://www.thomascoquereau.com/blog/posts/polars_vs_pandas_1/</loc>
+    <loc>https://thomascoquereau.com/blog/posts/polars_vs_pandas_1/</loc>
     <lastmod>2024-07-13T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://www.thomascoquereau.com/blog/posts/</loc>
+    <loc>https://thomascoquereau.com/blog/posts/</loc>
     <lastmod>2024-07-13T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://www.thomascoquereau.com/blog/categories/python/</loc>
+    <loc>https://thomascoquereau.com/blog/categories/python/</loc>
     <lastmod>2024-07-13T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://www.thomascoquereau.com/blog/</loc>
+    <loc>https://thomascoquereau.com/blog/</loc>
     <lastmod>2024-07-13T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://www.thomascoquereau.com/blog/categories/baseline/</loc>
+    <loc>https://thomascoquereau.com/blog/categories/baseline/</loc>
     <lastmod>2022-01-22T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://www.thomascoquereau.com/blog/categories/data/</loc>
+    <loc>https://thomascoquereau.com/blog/categories/data/</loc>
     <lastmod>2022-01-22T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://www.thomascoquereau.com/blog/categories/heuristic/</loc>
+    <loc>https://thomascoquereau.com/blog/categories/heuristic/</loc>
     <lastmod>2022-01-22T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://www.thomascoquereau.com/blog/categories/hyperparameter/</loc>
+    <loc>https://thomascoquereau.com/blog/categories/hyperparameter/</loc>
     <lastmod>2022-01-22T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://www.thomascoquereau.com/blog/categories/machine-learning/</loc>
+    <loc>https://thomascoquereau.com/blog/categories/machine-learning/</loc>
     <lastmod>2022-01-22T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://www.thomascoquereau.com/blog/categories/ml/</loc>
+    <loc>https://thomascoquereau.com/blog/categories/ml/</loc>
     <lastmod>2022-01-22T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://www.thomascoquereau.com/blog/posts/notes_on_ml_in_production/</loc>
+    <loc>https://thomascoquereau.com/blog/posts/notes_on_ml_in_production/</loc>
     <lastmod>2022-01-22T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://www.thomascoquereau.com/blog/categories/production/</loc>
+    <loc>https://thomascoquereau.com/blog/categories/production/</loc>
     <lastmod>2022-01-22T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://www.thomascoquereau.com/blog/posts/introduction/</loc>
+    <loc>https://thomascoquereau.com/blog/posts/introduction/</loc>
     <lastmod>2022-01-10T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://www.thomascoquereau.com/blog/tags/</loc>
+    <loc>https://thomascoquereau.com/blog/tags/</loc>
   </url>
 </urlset>

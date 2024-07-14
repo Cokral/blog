@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Pandas on Thomas Coquereau Blog</title>
-    <link>https://www.thomascoquereau.com/blog/categories/pandas/</link>
+    <link>https://thomascoquereau.com/blog/categories/pandas/</link>
     <description>Recent content in Pandas on Thomas Coquereau Blog</description>
     <generator>Hugo -- 0.128.2</generator>
     <language>en-us</language>
     <lastBuildDate>Sat, 13 Jul 2024 00:00:00 +0000</lastBuildDate>
-    <atom:link href="https://www.thomascoquereau.com/blog/categories/pandas/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://thomascoquereau.com/blog/categories/pandas/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Polars vs Pandas: A Real-World Performance Comparison (Part 1/2)</title>
-      <link>https://www.thomascoquereau.com/blog/posts/polars_vs_pandas_1/</link>
+      <link>https://thomascoquereau.com/blog/posts/polars_vs_pandas_1/</link>
       <pubDate>Sat, 13 Jul 2024 00:00:00 +0000</pubDate>
-      <guid>https://www.thomascoquereau.com/blog/posts/polars_vs_pandas_1/</guid>
+      <guid>https://thomascoquereau.com/blog/posts/polars_vs_pandas_1/</guid>
       <description>Recently, I decided to experiment with the Python library Polars at work. I&amp;rsquo;ve been hearing a lot about it, and I wanted to see how it compares to Pandas, which we currently use for our data preprocessing. Here&amp;rsquo;s what I learned!
 Why Polars? Polars has been trending in the data engineering world, and I was curious to see if it lived up to the hype. Plus, I&amp;rsquo;m a firm believer in learning by doing, so I thought this would be a great opportunity to get hands-on experience with a new tool.</description>
     </item>
